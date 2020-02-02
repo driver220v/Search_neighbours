@@ -1,0 +1,18 @@
+127.0.0.1 - - [31/Jan/2020 15:34:50] "GET /persons_near?name=4994&distance=613 HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jan/2020 15:34:50] "GET /persons_near?name=4995&distance=705 HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jan/2020 15:34:50] "GET /persons_near?name=4997&distance=911 HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jan/2020 15:34:50] "GET /persons_near?name=4998&distance=487 HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jan/2020 15:34:50] "GET /persons_near?name=4999&distance=175 HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jan/2020 15:34:50] "GET /persons_near?name=127&distance=725 HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jan/2020 15:34:50] "GET /persons_near?name=128&distance=912 HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jan/2020 15:34:50] "GET /persons_near?name=129&distance=215 HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jan/2020 15:34:50] "GET /persons_near?name=130&distance=558 HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jan/2020 15:34:50] "GET /persons_near?name=131&distance=292 HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jan/2020 15:34:50] "GET /persons_near?name=132&distance=327 HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jan/2020 15:34:50] "GET /persons_near?name=133&distance=759 HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jan/2020 15:34:50] "GET /persons_near?name=134&distance=860 HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jan/2020 15:34:50] "GET /persons_near?name=135&distance=641 HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jan/2020 15:34:50] "GET /persons_near?name=136&distance=377 HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jan/2020 15:34:50] "GET /persons_near?name=137&distance=716 HTTP/1.1" 200 -
+
+при переходе через заданное число, прога высчитывает еще раз расстояние
